@@ -1,16 +1,17 @@
 {
-  "name": "parser",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "node-fetch": "^3.3.2",
-    "xmldom": "^0.6.0"
-  }
+	"name": "parser",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"fast-xml-parser": "^4.5.0",
+		"node-fetch": "^3.3.2",
+		"xml2js": "^0.6.2"
+	}
 }
