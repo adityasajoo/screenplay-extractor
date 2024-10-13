@@ -1,0 +1,24 @@
+<FinalDraft DocumentType="Script" Template="No">
+  <TitlePage>
+    <Paragraph Type="Title">
+      <Text>Ak For Testing</Text>
+    </Paragraph>
+    <Paragraph Type="Author">
+      <Text>rakesh</Text>
+    </Paragraph>
+  </TitlePage>
+  <Content>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. OFFICE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>John sits at his desk typing.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. PARK - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Children are playing on the swings.</Text>
+    </Paragraph>
+  </Content>
+</FinalDraft>
