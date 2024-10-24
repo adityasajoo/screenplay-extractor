@@ -2,7 +2,7 @@
 const fs = require('fs');
 const Extractor = require('./Extractor');
 
-const filename = 'test.fdx'; 
+const filename = 'test.pdf'; // Change this to your PDF filename
 const outputFilename = 'parsed_content.json';
 
 const extractor = new Extractor(filename);
